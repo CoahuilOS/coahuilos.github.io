@@ -31,3 +31,25 @@ li {
     margin-bottom: 10px;
     text-align: center;
 }
+
+.logotipo img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    obejct-fit: contain;
+    position: absolute;
+    left: 54%;
+    top: 30px;
+}
+
+header { 
+    background: #bdc3c7; 
+    padding: 1em; 
+    text-align: center; 
+}
+
+footer { 
+    background: #bdc3c7; 
+    padding: 1em; 
+    text-align: center; 
+}
