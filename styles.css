@@ -53,3 +53,28 @@ footer {
     padding: 1em; 
     text-align: center; 
 }
+
+a {
+    color: rgb(54, 125, 206);
+    text-decoration: dotted;
+    font-family: 'Arial', sans-serif;
+}
+
+.creador {
+    text-align: center;
+    color: rgb(6, 39, 77);
+    text-decoration: dotted;
+    font-family: 'Arial', sans-serif;
+    margin: 0 auto;
+    obejct-fit: contain;
+    position: absolute;
+    left: 64%;
+    top: 27%;
+}
+
+.creador a {
+    text-align: center;
+    color: rgb(6, 39, 77);
+    text-decoration: dotted;
+    font-family: 'Arial', sans-serif;
+}
